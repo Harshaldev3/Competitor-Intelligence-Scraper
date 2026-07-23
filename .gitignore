@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+Scraper part 1.venv/
+output/
+data/*
+!data/.gitkeep
